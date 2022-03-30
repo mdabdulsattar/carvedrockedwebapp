@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'carvedrockwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8E906D0E7DD4485A48815AEB75A96D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC403119684540B4952FB012D438BBFF }}
           package: .
